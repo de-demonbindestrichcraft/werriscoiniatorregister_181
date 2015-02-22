@@ -1,0 +1,7 @@
+name: WerrisCoiniatorRegister
+main: de.demonbindestrichcraft.lib.bukkit.wrapper.register.register.werriscoiniator.WerrisCoiniatorRegister
+version: 3.0
+commands:
+  wcregister:
+    description: Register Wrapper hook Vault and WerrisCoiniator created by Werri @demon-craft.de
+    usage: /wregister
